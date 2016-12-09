@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hallway Attempt 1.CSharp.Plugins", "Hallway Attempt 1.CSharp.Plugins.csproj", "{71FE1CCB-2E66-D57C-D64C-7158633B97B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hallway Attempt 1.CSharp", "Hallway Attempt 1.CSharp.csproj", "{1BABD2A9-4F0F-8160-B172-708F47C4B184}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hallway Attempt 1.CSharp.Editor", "Hallway Attempt 1.CSharp.Editor.csproj", "{B18A7A21-B785-9225-C352-CA0FB1FAB3D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71FE1CCB-2E66-D57C-D64C-7158633B97B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71FE1CCB-2E66-D57C-D64C-7158633B97B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71FE1CCB-2E66-D57C-D64C-7158633B97B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71FE1CCB-2E66-D57C-D64C-7158633B97B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BABD2A9-4F0F-8160-B172-708F47C4B184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BABD2A9-4F0F-8160-B172-708F47C4B184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BABD2A9-4F0F-8160-B172-708F47C4B184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BABD2A9-4F0F-8160-B172-708F47C4B184}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B18A7A21-B785-9225-C352-CA0FB1FAB3D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B18A7A21-B785-9225-C352-CA0FB1FAB3D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B18A7A21-B785-9225-C352-CA0FB1FAB3D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B18A7A21-B785-9225-C352-CA0FB1FAB3D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
